@@ -1,0 +1,2 @@
+# minnu
+clone,branches,commit
